@@ -2,4 +2,8 @@
 touch hello_world.txt
 =======
 Hello, world!
+<<<<<<< HEAD
 >>>>>>> c0a593e (Add hello_world.txt)
+=======
+Git sees this change now.
+>>>>>>> d385656 (hello_world.txt)
